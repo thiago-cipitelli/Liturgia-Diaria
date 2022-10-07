@@ -1,6 +1,6 @@
 <p align=center>
 <img src="https://img.shields.io/badge/os-linux-brightgreen">
-# Liturgia Diária
+<h1> Liturgia Diária </h1>
 </p>
 
 ## Conteudo
